@@ -1,0 +1,12 @@
+obrazek: intercluster medium
+obrazek:rozbłysk słoneczny
+    Można powiedzieć, że wewnątrz obłoku międzygalaktycznego znajduje się plazma o temperaturze rzędu megakelwinów. Można opowiedzieć o gwiazdach, np. słońcu, jaką ma temperaturę w kolejnych warstwach.
+
+obrazek: jakiś fuzor
+obrazek: Patrick :)
+    Można powiedzieć o tym, jaką temperaturę uzyskuje się, aby wytworzyć sztuczną plazmę.
+
+
+obrazek: Fuzor (fuzor Farnswortha–Hirscha)
+obrazek: tokamak
+    Można powiedzieć, co to jest tokamak, i jak działa (plazma magnetycznie uwięziona (Magnetic Confinement Fusion, MCF) ), oprócz tego oczywiście o tym, czym jest fuzor i jak działa (Inertial electrostatic confinement, or IEC, inercyjne utrzymywanie plazmy) - to kluczowe dla naszej prezentacji.
